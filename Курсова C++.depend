@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1657366381 source:d:\Навчання\Курсова c++\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<Windows.h>
+	<sstream>
+	<iomanip>
+	<cmath>
+	<functional>
+
